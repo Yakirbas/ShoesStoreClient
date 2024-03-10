@@ -3,7 +3,7 @@ import { Routes, Route} from 'react-router-dom';
 import Navbar from '../menu/Navbar';
 import Footer from '../footer/Footer';
 import AddShoes from '../addShoes/AddShoes';
-import Itemrouter from './itemrouter';
+import Itemrouter from './Itemrouter';
 import LandR from '../LandR';
 
 import CancelPage from '../paypal/CancelPage/CancelPage';
