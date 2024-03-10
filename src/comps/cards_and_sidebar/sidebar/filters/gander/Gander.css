@@ -1,0 +1,14 @@
+.gander {
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid rgba(87, 85, 85, 0.308);
+}
+.gander .icon {
+  cursor: pointer;
+}
+.gander .row .container .row .inputdiv .inputbox {
+  height: 100%;
+}
+.gander .row .container .row .inputdiv .inputbox[type=checkbox] {
+  accent-color: black;
+}/*# sourceMappingURL=Gander.css.map */

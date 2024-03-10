@@ -1,0 +1,16 @@
+.register .container h1 {
+  color: beige;
+}
+.register .container .rowerr {
+  height: 24px;
+}
+.register .container .rowerr .err {
+  color: red;
+  margin: 0;
+}
+.register input {
+  border: 2px solid rgba(133, 133, 135, 0.489);
+  background-color: rgba(240, 255, 255, 0);
+  border-radius: 10px;
+  color: beige;
+}/*# sourceMappingURL=Register.css.map */

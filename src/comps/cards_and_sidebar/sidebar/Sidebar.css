@@ -1,0 +1,18 @@
+@media screen and (min-width: 991.98px) {
+  .sidebar .sidebarcontainer {
+    position: sticky;
+    top: 112px;
+  }
+  .sidebar .sidebarcontainer .sidebarcontainer-fluid::-webkit-scrollbar {
+    width: 0px;
+  }
+  .sidebar .sidebarcontainer .sidebarcontainer-fluid {
+    overflow-y: scroll;
+    height: 85vh;
+  }
+}
+/* @media screen and (max-width: 991.98px){
+   .sidebar{
+
+   }
+} *//*# sourceMappingURL=Sidebar.css.map */

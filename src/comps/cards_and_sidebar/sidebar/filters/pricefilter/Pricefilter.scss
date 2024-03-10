@@ -1,0 +1,44 @@
+.price{
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid rgba(87, 85, 85, 0.308);
+
+  
+    .icon{
+        cursor: pointer;
+    }
+    .row{
+        .container-fluid{
+            .row{
+                .inputdiv{
+                    
+                    
+                    @media screen and (min-width: 991.98px) {
+                        .inputbox{
+                            height: 50%;
+                            
+                         }
+                      }
+                      @media screen and (max-width: 991.98px) {
+                        .inputbox{
+                            height: 50%;
+                            
+                         }
+                      }
+
+                    .inputbox[type="checkbox"]{
+                        accent-color: black;
+                       }
+                  
+                }
+
+                .textfil{
+                    
+                    p{
+                        font-size: 15px;
+                    }
+                }
+            }
+        }
+    }
+}

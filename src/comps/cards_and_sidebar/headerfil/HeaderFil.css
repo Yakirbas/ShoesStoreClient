@@ -1,0 +1,6 @@
+.HeaderFil {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.HeaderFil .row .filters .row .hidebtn {
+  cursor: pointer;
+}/*# sourceMappingURL=HeaderFil.css.map */

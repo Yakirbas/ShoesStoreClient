@@ -1,0 +1,10 @@
+.footer .footercontainer .socialrow .icon {
+  background-color: darkgray;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+.footer .footercontainer .socialrow .icon .iconimage {
+  width: 70px;
+  height: 70px;
+}/*# sourceMappingURL=Footer.css.map */

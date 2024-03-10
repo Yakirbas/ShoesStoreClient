@@ -1,0 +1,24 @@
+.register{
+
+    .container{
+        h1{
+        color: beige;
+        }
+
+        .rowerr{
+            height: 24px;
+            .err{
+                color: red;
+                margin: 0;
+            }
+        }
+    }
+    input{
+        border: 2px solid rgba(133, 133, 135, 0.489);
+        background-color: rgba(240, 255, 255, 0);
+        border-radius: 10px;
+        color: beige;
+    }
+
+    
+}

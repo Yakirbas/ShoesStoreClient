@@ -1,0 +1,24 @@
+.price {
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid rgba(87, 85, 85, 0.308);
+}
+.price .icon {
+  cursor: pointer;
+}
+@media screen and (min-width: 991.98px) {
+  .price .row .container-fluid .row .inputdiv .inputbox {
+    height: 50%;
+  }
+}
+@media screen and (max-width: 991.98px) {
+  .price .row .container-fluid .row .inputdiv .inputbox {
+    height: 50%;
+  }
+}
+.price .row .container-fluid .row .inputdiv .inputbox[type=checkbox] {
+  accent-color: black;
+}
+.price .row .container-fluid .row .textfil p {
+  font-size: 15px;
+}/*# sourceMappingURL=Pricefilter.css.map */
